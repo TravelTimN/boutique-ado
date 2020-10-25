@@ -63,6 +63,10 @@ body {
     border: 1px solid rgba(var(--black), 1) !important;
 }
 
+.bg-black {
+    background: rgba(var(--black), 1);
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
