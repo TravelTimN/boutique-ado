@@ -10,14 +10,36 @@ def all_products(request):
     products = Product.objects.all()
     categories = None
     query = None
+    sort = None
+    direction = None
 
     if request.GET:
 
+        # sorting
+        if "sort" in request.GET:
+            sortkey = request.GET["sort"]
+            sort = sortkey
+            if sortkey == "name":
+                sortkey = "lower_name"
+                products = products.annotate(lower_name=Lower("name"))
+
+            if "direction" in request.GET:
+                direction = request.GET["direction"]
+                if direction == "desc":
+                    sortkey = f"-{sortkey}"
+            products = products.order_by(sortkey)
+
+        # filter by category
         if "category" in request.GET:
             categories = request.GET["category"].split(",")
             products = products.filter(category__name__in=categories)
             categories = Category.objects.filter(name__in=categories)
 
+        # image or no image
+        if "hasimage" in request.GET:
+            products = products.exclude(image="")
+
+        # query search
         if "q" in request.GET:
             query = request.GET["q"]
             if not query:
@@ -31,10 +53,13 @@ def all_products(request):
             )
             products = products.filter(queries)
 
+    current_sorting = f"{sort}_{direction}"
+
     context = {
         "products": products,
         "current_categories": categories,
         "search_term": query,
+        "current_sorting": current_sorting,
     }
 
     return render(request, "products/products.html", context)

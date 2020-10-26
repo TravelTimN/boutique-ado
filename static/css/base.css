@@ -67,6 +67,10 @@ body {
     background: rgba(var(--black), 1);
 }
 
+label[for="has-image"] {
+    cursor: pointer;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
