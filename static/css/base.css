@@ -1,7 +1,8 @@
 :root {
     --white: 255, 255, 255; /* #FFFFFF */
-    --grey: 85, 85, 85; /* #555555 */
-    --darkGrey: 34, 34, 34; /* #222222 */
+    --emperor: 85, 85, 85; /* #555555 */
+    --mineShaft: 34, 34, 34; /* #222222 */
+    --shark: 33, 37, 41; /* #212529 */
     --black: 0, 0, 0; /* #000000 */
 }
 
@@ -13,7 +14,7 @@ body {
     background: url("/media/homepage_background_cropped.jpg") no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: rgba(var(--grey), 1);
+    color: rgba(var(--emperor), 1);
     font-family: "Lato", sans-serif;
 }
 
@@ -51,7 +52,7 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: rgba(var(--darkGrey), 1);
+    background: rgba(var(--mineShaft), 1);
     color: rgba(var(--white), 1);
 }
 
@@ -79,6 +80,11 @@ label[for="has-image"] {
     position: fixed;
     background: rgba(var(--white), 1);
     z-index: -1;
+}
+
+a.category-badge > span.badge:hover {
+    background: rgba(var(--shark), 1) !important;
+    color: rgba(var(--white), 1) !important;
 }
 
 /* -------------------------------- Media Queries */
