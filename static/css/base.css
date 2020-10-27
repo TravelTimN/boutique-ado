@@ -46,6 +46,19 @@ body {
     color: rgba(var(--white), 1);
 }
 
+.btn-outline-black {
+    background: rgba(var(--white), 1);
+    color: rgba(var(--black), 1) !important;
+    border: 1px solid rgba(var(--black), 1);
+}
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: rgba(var(--black), 1);
+    color: rgba(var(--white), 1) !important;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
