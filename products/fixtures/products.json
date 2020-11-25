@@ -54,7 +54,7 @@
             "has_sizes": false,
             "price": 169.99,
             "category": 7,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0716201503423610M.jpg"
         }
@@ -69,7 +69,7 @@
             "has_sizes": false,
             "price": 232.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1115201210371197C.jpg"
         }
@@ -97,7 +97,7 @@
             "name": "Liz Claiborne Classic Sophie Secretly Slender Trouser Leg Pants - Plus",
             "description": "Walk a little taller in our slimming straight-leg pants. flat front slim fit straight leg front fly with nylon zipper, hook and bar closure 32\" inseam polyester/rayon/spandex washable imported ",
             "has_sizes": true,
-            "price": 59,
+            "price": 59.0,
             "category": 4,
             "rating": 4.4,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
@@ -159,7 +159,7 @@
             "has_sizes": true,
             "price": 29.99,
             "category": 9,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "0900631B81B0C2D9M.jpg"
         }
@@ -187,7 +187,7 @@
             "name": "Champion Jersey Tee",
             "description": "Compete, exercise or simply relax in comfort with a classic tee from Champion, the brand that's been making quality athletic apparel since 1919.  regular fit crewneck taped neck left chest logo embroidery cotton except oxford and granite heather are cotton/polyester washable imported",
             "has_sizes": true,
-            "price": 20,
+            "price": 20.0,
             "category": 9,
             "rating": 3.2,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
@@ -279,7 +279,7 @@
             "has_sizes": false,
             "price": 60.99,
             "category": 2,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0807201317072924M.jpg"
         }
@@ -324,7 +324,7 @@
             "has_sizes": false,
             "price": 76.99,
             "category": 4,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0917201317033820M.jpg"
         }
@@ -352,7 +352,7 @@
             "name": "Royal Velvet Down Chamber Pillow",
             "description": "The Down Chamber pillow, with its unique pillow-in-pillow design, offers all-natural comfort. With an inner core of springy, high-loft feathers wrapped in an outer layer of silk, luxurious down, you'll receive supportive, lofty comfort. The gusset allows for additional neck support so you can sleep comfortably. inner chamber of springy, True Loft feathers provides superior all-natural comfort and support outer layer of silky, soft down adds lasting cushioning and comfort 550 fill power 300 thread-count cotton cover is hypoallergenic medium support for stomach or side sleepers hypoallergenic Cotton cover; duck feather and down fill. Washable. Manufacturer's 4-year limited warranty. Assembled in America from imported fabric. Standard/Queen pillow: 20x28\"; 32-ounce fill weight King pillow: 20x36\"; 39-ounce fill weight Be sure to care for your investment with a pillow protector. It's an added layer of protection that willhelpkeep your pillow clean and fresh. ",
             "has_sizes": false,
-            "price": 82,
+            "price": 82.0,
             "category": 2,
             "rating": 3.8,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1023201317051585M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
@@ -369,7 +369,7 @@
             "has_sizes": true,
             "price": 106.99,
             "category": 9,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1108201317050996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1108201317050996M.jpg"
         }
@@ -399,7 +399,7 @@
             "has_sizes": false,
             "price": 338.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0610201317080834M.jpg"
         }
@@ -444,7 +444,7 @@
             "has_sizes": false,
             "price": 72.99,
             "category": 2,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0113201417050002M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0113201417050002M.jpg"
         }
@@ -459,7 +459,7 @@
             "has_sizes": false,
             "price": 69.99,
             "category": 3,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0213201417022274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0213201417022274M.jpg"
         }
@@ -549,7 +549,7 @@
             "has_sizes": false,
             "price": 21.99,
             "category": 2,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0828201517030241M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0828201517030241M.jpg"
         }
@@ -594,7 +594,7 @@
             "has_sizes": false,
             "price": 31.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405213832M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0430201405213832M.jpg"
         }
@@ -609,7 +609,7 @@
             "has_sizes": false,
             "price": 41.99,
             "category": 7,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405232442M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0430201405232442M.jpg"
         }
@@ -639,7 +639,7 @@
             "has_sizes": false,
             "price": 65.99,
             "category": 7,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B8140782DM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "0900631B8140782DM.jpg"
         }
@@ -667,7 +667,7 @@
             "name": "JCPenney Home Ultra Soft Micro Fleece Blanket",
             "description": "Super soft and undeniably cuddly, this micro-fleece blanket will keep you warm and comforted all year long.  brushed micro fleece for extra softness lightweight warmth anti-pilling treatment on one side Polyester. Washable. Imported. Twin: 60x90\" Full/Queen: 90x90\" King blanket: 108x90\"",
             "has_sizes": false,
-            "price": 41,
+            "price": 41.0,
             "category": 2,
             "rating": 4.6,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503421212M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
@@ -699,7 +699,7 @@
             "has_sizes": false,
             "price": 48.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1017201420511297C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1017201420511297C.jpg"
         }
@@ -714,7 +714,7 @@
             "has_sizes": true,
             "price": 34.99,
             "category": 1,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0919201417043014M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0919201417043014M.jpg"
         }
@@ -729,7 +729,7 @@
             "has_sizes": false,
             "price": 60.99,
             "category": 2,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1015201417131329M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1015201417131329M.jpg"
         }
@@ -774,7 +774,7 @@
             "has_sizes": false,
             "price": 88.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1124201417012025M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1124201417012025M.jpg"
         }
@@ -804,7 +804,7 @@
             "has_sizes": true,
             "price": 26.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0414201520383920C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0414201520383920C.jpg"
         }
@@ -847,7 +847,7 @@
             "name": "Worthington Sateen Cropped Pants - Petite",
             "description": "From the workweek to weekend fun, our sateen cropped pants are a perfect way to make sure you're always flaunting a put-together look. zipper closure 2 front slash pockets 2 faux back pockets 18\" inseam black white print: cotton/polyester/spandex all others: cotton/nylon/spandex washable imported",
             "has_sizes": true,
-            "price": 66,
+            "price": 66.0,
             "category": 3,
             "rating": 4.7,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0323201517042926M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
@@ -862,7 +862,7 @@
             "name": "Madison Park Essentials Concord Reversible Complete Bedding Set with Sheets",
             "description": "Create a chic look in your space with this bedding set featuring a comforter with a geometric fretwork design that's inverted on the other side for fresh, versatile fabric. white and dusty teal tones reversible for two looks in one 180 thread-count printed sheet set fitted sheet fits twin mattresses up to 12\" deep and all other sizes up to 14\" deep 7-piece Twin set includes: comforter sham flat sheet fitted sheet pillowcase bedskirt with 15\" drop decorative pillow 9-piece Full, Queen, King or Cal. King set includes: comforter 2 shams flat sheet fitted sheet 2 pillowcases bedskirt with 15\" drop decorative pillow Coordinating accessories sold separately. Twin, Full and Queen sets include standard sham(s). King and Cal. King sets include king shams. Polyester comforter and decorative pillow with polyester fill; polyester shams and bedskirt; cotton sheets and pillowcases. Washable; spot clean decorative pillows. Imported. Twin: comforter is 68x86\"; sham is 26x20\"; flat sheet is 66x96\"; fitted sheet is 39x75\"; pillowcase is 30x20\"; bedskirt is 75x39\"; decorative pillow is 18x12\" Full: comforter is 78x86\"; shams are 26x20\"; flat sheet is 81x96\"; fitted sheet is 54x75\"; pillowcases are 30x20\"; bedskirt is 75x54\"; decorative pillow is 18x12\" Queen: comforter is 90x90\"; shams are 26x20\"; flat sheet is 90x102\"; fitted sheet is 60x80\"; pillowcases are 30x20\"; bedskirt is 80x60\"; decorative pillow is 18x12\" King: comforter is 104x92\"; shams are 36x20\"; flat sheet is 108x102\"; fitted sheet is 78x80\"; pillowcases are 40x20\"; bedskirt is 80x78\"; decorative pillow is 18x12\" Cal. King: comforter is 104x92\"; shams are 36x20\"; flat sheet is 108x102\"; fitted sheet is 72x84\"; pillowcases are 40x20\"; bedskirt is 72x84\"; decorative pillow is 18x12\" King and Cal. King comforters are designed to be the same size, while the coordinating bedskirt is sized to fit the specific type you order.",
             "has_sizes": false,
-            "price": 265,
+            "price": 265.0,
             "category": 2,
             "rating": 3.3,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0204201517030626M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
@@ -879,7 +879,7 @@
             "has_sizes": false,
             "price": 211.99,
             "category": 7,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0224201517023517M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0224201517023517M.jpg"
         }
@@ -924,7 +924,7 @@
             "has_sizes": true,
             "price": 31.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201517030651M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0401201517030651M.jpg"
         }
@@ -939,7 +939,7 @@
             "has_sizes": false,
             "price": 169.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0408201517021489M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0408201517021489M.jpg"
         }
@@ -969,7 +969,7 @@
             "has_sizes": true,
             "price": 30.99,
             "category": 3,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0515201517013144M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0515201517013144M.jpg"
         }
@@ -1012,7 +1012,7 @@
             "name": "Home Expressions Microfiber Twin XL Sheet Set",
             "description": "Add softness and a splash of color to your bed with this ultra-comfy microfiber sheet set. wrinkle-resistant won't pill or fade fitted sheet fits mattresses up to 14\" deep 3-piece set includes: flat sheet fitted sheet pillowcase Polyester. Washable. Imported. Twin XL: flat sheet is 66x102\"; fitted sheet is 39x80\"; pillowcase is 32x21\" ",
             "has_sizes": false,
-            "price": 42,
+            "price": 42.0,
             "category": 2,
             "rating": 4.3,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0519201517025089M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
@@ -1119,7 +1119,7 @@
             "has_sizes": true,
             "price": 50.99,
             "category": 6,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0831201520432399C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0831201520432399C.jpg"
         }
@@ -1177,9 +1177,9 @@
             "name": "Levi's Houlihan Short-Sleeve Logo Tee",
             "description": "The iconic arcuate logo gets a geo-patterned upgrade on this heathered crewneck tee from Levis. crewneck short sleeves cotton/polyester washable imported",
             "has_sizes": true,
-            "price": 29,
+            "price": 29.0,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0702201517031050M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0702201517031050M.jpg"
         }
@@ -1222,9 +1222,9 @@
             "name": "Disney Collection Frozen Elsa Graphic Tee - Girls 2-12",
             "description": "Girly style gets a cool Frozen touch with this Elsa graphic tee. crewneck short sleeves glitter details 100% cotton washable imported",
             "has_sizes": true,
-            "price": 27,
+            "price": 27.0,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0716201517033520M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0716201517033520M.jpg"
         }
@@ -1239,7 +1239,7 @@
             "has_sizes": true,
             "price": 29.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0717201517041911M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0717201517041911M.jpg"
         }
@@ -1299,7 +1299,7 @@
             "has_sizes": true,
             "price": 108.99,
             "category": 8,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0805201520415923C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0805201520415923C.jpg"
         }
@@ -1314,7 +1314,7 @@
             "has_sizes": true,
             "price": 52.99,
             "category": 1,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0724201517031934M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0724201517031934M.jpg"
         }
@@ -1404,7 +1404,7 @@
             "has_sizes": false,
             "price": 42.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0810201517010458M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0810201517010458M.jpg"
         }
@@ -1419,7 +1419,7 @@
             "has_sizes": true,
             "price": 92.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0805201517023421M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0805201517023421M.jpg"
         }
@@ -1434,7 +1434,7 @@
             "has_sizes": true,
             "price": 26.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0917201520473680C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0917201520473680C.jpg"
         }
@@ -1494,7 +1494,7 @@
             "has_sizes": true,
             "price": 72.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0828201517024772M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0828201517024772M.jpg"
         }
@@ -1509,7 +1509,7 @@
             "has_sizes": true,
             "price": 71.99,
             "category": 3,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0930201517050189M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0930201517050189M.jpg"
         }
@@ -1522,7 +1522,7 @@
             "name": "Stafford Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt - Big & Tall",
             "description": "This Stafford everyday dress shirt is a wardrobe staple featuring our commitment to quality and wearability. easy care performance specially sewn seams to lay flat and resist puckering point collar reinforced cross-stitched buttons are extremely durable chest pocket cotton/polyester washable imported",
             "has_sizes": true,
-            "price": 55,
+            "price": 55.0,
             "category": 3,
             "rating": 4.2,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1002201517022007M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
@@ -1539,7 +1539,7 @@
             "has_sizes": true,
             "price": 52.99,
             "category": 6,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1230201520420777C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1230201520420777C.jpg"
         }
@@ -1569,7 +1569,7 @@
             "has_sizes": false,
             "price": 166.99,
             "category": 2,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0921201517052807M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0921201517052807M.jpg"
         }
@@ -1584,7 +1584,7 @@
             "has_sizes": false,
             "price": 71.99,
             "category": 2,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0921201517052786M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0921201517052786M.jpg"
         }
@@ -1614,7 +1614,7 @@
             "has_sizes": true,
             "price": 29.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1021201517031368M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1021201517031368M.jpg"
         }
@@ -1644,7 +1644,7 @@
             "has_sizes": true,
             "price": 29.99,
             "category": 9,
-            "rating": 1,
+            "rating": 1.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1022201517023782M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1022201517023782M.jpg"
         }
@@ -1659,7 +1659,7 @@
             "has_sizes": false,
             "price": 139.99,
             "category": 2,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1112201517050819M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1112201517050819M.jpg"
         }
@@ -1674,7 +1674,7 @@
             "has_sizes": true,
             "price": 23.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1104201517020304M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1104201517020304M.jpg"
         }
@@ -1689,7 +1689,7 @@
             "has_sizes": true,
             "price": 24.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1106201517012318M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1106201517012318M.jpg"
         }
@@ -1704,7 +1704,7 @@
             "has_sizes": true,
             "price": 58.99,
             "category": 4,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1104201517021565M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1104201517021565M.jpg"
         }
@@ -1717,9 +1717,9 @@
             "name": "Nike Dri-FIT Base Layer Tights",
             "description": "These Nike tights provide the comfort and mobility that help you to maximize your workout. elastic waistband compression fit moisture wicking polyester/spandex washable imported",
             "has_sizes": true,
-            "price": 41,
+            "price": 41.0,
             "category": 4,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0216201620412947C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0216201620412947C.jpg"
         }
@@ -1749,7 +1749,7 @@
             "has_sizes": true,
             "price": 44.99,
             "category": 1,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1030201517035843M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1030201517035843M.jpg"
         }
@@ -1764,7 +1764,7 @@
             "has_sizes": true,
             "price": 19.99,
             "category": 1,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201517043586M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1119201517043586M.jpg"
         }
@@ -1779,7 +1779,7 @@
             "has_sizes": true,
             "price": 26.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1124201517014225M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1124201517014225M.jpg"
         }
@@ -1837,7 +1837,7 @@
             "name": "Worthington Short-Sleeve Scoopneck T-Shirt - Tall",
             "description": "Our Worthington t-shirt is a soft and feminine addition to your t-shirt collection and will quickly earn the position of favorite. scoopneck short sleeves approx. 27\" length polyester/ spandex washable imported",
             "has_sizes": true,
-            "price": 49,
+            "price": 49.0,
             "category": 5,
             "rating": 4.8,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1202201517021959M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
@@ -1869,7 +1869,7 @@
             "has_sizes": true,
             "price": 69.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1208201517020379M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1208201517020379M.jpg"
         }
@@ -1884,7 +1884,7 @@
             "has_sizes": true,
             "price": 48.99,
             "category": 6,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0726201317024762M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0726201317024762M.jpg"
         }
@@ -1899,7 +1899,7 @@
             "has_sizes": true,
             "price": 30.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1109201517012575M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1109201517012575M.jpg"
         }
@@ -1929,7 +1929,7 @@
             "has_sizes": true,
             "price": 21.99,
             "category": 5,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0119201620405230C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0119201620405230C.jpg"
         }
@@ -1974,7 +1974,7 @@
             "has_sizes": true,
             "price": 53.99,
             "category": 3,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1218201517095959M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1218201517095959M.jpg"
         }
@@ -2019,7 +2019,7 @@
             "has_sizes": false,
             "price": 34.99,
             "category": 2,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0126201620545687C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0126201620545687C.jpg"
         }
@@ -2032,9 +2032,9 @@
             "name": "Disney Minnie Mouse Girls Athletic Shoes - Toddler",
             "description": "Tickle her fancy with the bows and polka dots that adorn our positively precious Minnie Mouse athletic shoes. construction synthetic upper rubber sole details self-adhesive closure fun embellishments easy pull-on tab",
             "has_sizes": true,
-            "price": 42,
+            "price": 42.0,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0107201603172435M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0107201603172435M.jpg"
         }
@@ -2047,7 +2047,7 @@
             "name": "Worthington 3/4-Sleeve Open-Front Cardigan Sweater",
             "description": "Add a splash of color to your warm-weather wardrobe with our supremely soft open-front cardigan sweater, complete with stripes of pointelle trim for extra breathability. 3/4 sleeves approx. 22\" - 24\" body length acrylic machine wash, dry flat imported",
             "has_sizes": true,
-            "price": 66,
+            "price": 66.0,
             "category": 5,
             "rating": 4.7,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1216201517030998M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
@@ -2064,7 +2064,7 @@
             "has_sizes": true,
             "price": 28.99,
             "category": 1,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0217201617084849M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0217201617084849M.jpg"
         }
@@ -2079,7 +2079,7 @@
             "has_sizes": true,
             "price": 35.99,
             "category": 1,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0309201620474626C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0309201620474626C.jpg"
         }
@@ -2109,7 +2109,7 @@
             "has_sizes": true,
             "price": 64.99,
             "category": 6,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1216201517031308M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP1216201517031308M.jpg"
         }
@@ -2124,7 +2124,7 @@
             "has_sizes": false,
             "price": 90.99,
             "category": 7,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81E48245M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "0900631B81E48245M.jpg"
         }
@@ -2199,7 +2199,7 @@
             "has_sizes": true,
             "price": 19.99,
             "category": 9,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0217201617074443M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0217201617074443M.jpg"
         }
@@ -2214,7 +2214,7 @@
             "has_sizes": true,
             "price": 46.99,
             "category": 1,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0316201621115243C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0316201621115243C.jpg"
         }
@@ -2229,7 +2229,7 @@
             "has_sizes": true,
             "price": 48.99,
             "category": 4,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201617024158M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0226201617024158M.jpg"
         }
@@ -2244,7 +2244,7 @@
             "has_sizes": true,
             "price": 31.99,
             "category": 5,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1014201517033744M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP1014201517033744M.jpg"
         }
@@ -2257,9 +2257,9 @@
             "name": "Dockers Signature Classic-Fit Flat-Front Pants",
             "description": "Dockers Signature Khaki flat-front pants are a classic step in the right direction.  no wrinkles color retention technology flat front with comfort waist zip fly with button closure double-welt, button-through back pockets wing & anchor logo embroidery permanent crease cotton washable imported ",
             "has_sizes": true,
-            "price": 70,
+            "price": 70.0,
             "category": 5,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201620313565C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0226201620313565C.jpg"
         }
@@ -2274,7 +2274,7 @@
             "has_sizes": true,
             "price": 58.99,
             "category": 5,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0216201620424511C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0216201620424511C.jpg"
         }
@@ -2289,7 +2289,7 @@
             "has_sizes": true,
             "price": 78.99,
             "category": 9,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0224201617043146M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0224201617043146M.jpg"
         }
@@ -2304,7 +2304,7 @@
             "has_sizes": true,
             "price": 53.99,
             "category": 6,
-            "rating": 1,
+            "rating": 1.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0722201517022951M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0722201517022951M.jpg"
         }
@@ -2319,7 +2319,7 @@
             "has_sizes": true,
             "price": 24.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0322201617031084M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0322201617031084M.jpg"
         }
@@ -2334,7 +2334,7 @@
             "has_sizes": true,
             "price": 52.99,
             "category": 8,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0325201617032503M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0325201617032503M.jpg"
         }
@@ -2349,7 +2349,7 @@
             "has_sizes": true,
             "price": 43.99,
             "category": 4,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0322201617031125M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0322201617031125M.jpg"
         }
@@ -2364,7 +2364,7 @@
             "has_sizes": true,
             "price": 41.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0407201620401180C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0407201620401180C.jpg"
         }
@@ -2394,7 +2394,7 @@
             "has_sizes": true,
             "price": 51.99,
             "category": 8,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0414201617030734M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0414201617030734M.jpg"
         }
@@ -2424,7 +2424,7 @@
             "has_sizes": true,
             "price": 48.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0404201617034496M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0404201617034496M.jpg"
         }
@@ -2439,7 +2439,7 @@
             "has_sizes": true,
             "price": 94.99,
             "category": 8,
-            "rating": 3,
+            "rating": 3.0,
             "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0226201617023618M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
             "image": "DP0226201617023618M.jpg"
         }
@@ -2454,7 +2454,7 @@
             "has_sizes": true,
             "price": 102.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0413201617045423M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0413201617045423M.jpg"
         }
@@ -2469,7 +2469,7 @@
             "has_sizes": true,
             "price": 103.99,
             "category": 4,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0413201617045408M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0413201617045408M.jpg"
         }
@@ -2484,7 +2484,7 @@
             "has_sizes": false,
             "price": 72.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0408201617014664M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0408201617014664M.jpg"
         }
@@ -2499,7 +2499,7 @@
             "has_sizes": true,
             "price": 62.99,
             "category": 8,
-            "rating": 4,
+            "rating": 4.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0421201617033561M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0421201617033561M.jpg"
         }
@@ -2514,7 +2514,7 @@
             "has_sizes": true,
             "price": 62.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0421201617033514M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0421201617033514M.jpg"
         }
@@ -2544,7 +2544,7 @@
             "has_sizes": true,
             "price": 36.99,
             "category": 8,
-            "rating": 5,
+            "rating": 5.0,
             "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0429201617074742M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
             "image": "DP0429201617074742M.jpg"
         }
